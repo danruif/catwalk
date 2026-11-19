@@ -35,9 +35,18 @@
       "capabilities": { "vision": false, "audio": false }
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4-Flash:fireworks-ai",
+      "name": "deepseek-ai/DeepSeek-V4-Flash (fireworks-ai)",
+      "pricing": { "input": 0.07, "output": 0.14 },
+      "context_window": 1048576,
+      "default_max_tokens": 8192,
+      "reasoning": { "thinking": "never" },
+      "capabilities": { "vision": false, "audio": false }
+    },
+    {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash:fireworks-ai",
       "name": "deepseek-ai/DeepSeek-V4.1-Flash (fireworks-ai)",
-      "pricing": { "input": 0.21, "output": 0.84 },
+      "pricing": { "input": 0.15, "output": 0.6 },
       "context_window": 1048576,
       "default_max_tokens": 8192,
       "reasoning": { "thinking": "never" },
@@ -46,7 +55,7 @@
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017:fireworks-ai",
       "name": "deepseek-ai/DeepSeek-V4.1-Flash-1017 (fireworks-ai)",
-      "pricing": { "input": 0.21, "output": 0.84 },
+      "pricing": { "input": 0.15, "output": 0.6 },
       "context_window": 1048576,
       "default_max_tokens": 8192,
       "reasoning": { "thinking": "never" },
@@ -145,7 +154,7 @@
     {
       "id": "zai-org/GLM-5.3:fireworks-ai",
       "name": "zai-org/GLM-5.3 (fireworks-ai)",
-      "pricing": { "input": 0.98, "output": 3.08 },
+      "pricing": { "input": 1.4, "output": 4.4 },
       "context_window": 1048576,
       "default_max_tokens": 8192,
       "reasoning": { "thinking": "never" },
